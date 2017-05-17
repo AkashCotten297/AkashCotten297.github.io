@@ -1,0 +1,14 @@
+body {
+   background : #66d9ff;
+}
+
+img {
+	display: block;
+}
+ #title {
+ 	background: pink;
+ 	height: auto;
+ 	width: 600px;
+ 	padding: 15px;
+ 	border-radius: 40px;
+ }
